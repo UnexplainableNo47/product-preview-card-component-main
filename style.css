@@ -28,6 +28,7 @@
 }
 .item-card{
     width: fit-content;
+    margin: auto;
     padding: 20px 40px 40px 20px;
 }
 .sub-text{
